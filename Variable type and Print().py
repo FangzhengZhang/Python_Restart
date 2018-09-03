@@ -6,7 +6,7 @@ is_male = True
 is_male = False
 
 # You can use  '+' to connect two strings together.
-#  ** However, you cannot use '+' to connect non-string variable in 'print()'
+#  ** However, you cannot use '+' to connect non-string variable with strings in 'print()'
 print(" ** You cannot use '+' to connect non-string variable in 'print()' ")
 
 # ** so you need to use 'str([int-variable])' or [int-variable].__str__()
