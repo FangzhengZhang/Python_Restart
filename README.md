@@ -1,4 +1,4 @@
 # Python_Restart
 Try to learn python by myself in the summer time.
 
-In this time, I will download python from python.org, and use the things that they give to me to learn it.
+Because I learned Java first, so in the coding comment I'll compare the differece between Java and Python in coding.
