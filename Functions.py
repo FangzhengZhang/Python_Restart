@@ -16,3 +16,10 @@ def say_hi_to(input_name):
     print("Hi " + input_name)
 
 say_hi_to("Fang")
+
+
+# function with a return value
+def cube(num):
+    return num*num*num
+
+print(cube(6))
